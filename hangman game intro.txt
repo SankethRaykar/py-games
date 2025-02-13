@@ -1,2 +1,0 @@
-3]HANGMAN GAME:
-It is a simple word-guessing game built using Python, where players try to guess a hidden word letter by letter before running out of attempts.
