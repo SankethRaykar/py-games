@@ -4,3 +4,5 @@ The Dice Rolling Simulator is a simple Python program that simulates rolling a d
 
 2]n dice roller 2D simulator:
 A simple Python program that simulates rolling dice. This program allows users to roll multiple dice at once and displays the results using ASCII art.
+
+3]HANGMAN GAME:
