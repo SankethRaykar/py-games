@@ -1,0 +1,22 @@
+words = [
+    "apple", "banana", "grape", "orange", "peach", "melon", "cherry", "plum", "berry", "mango",
+    "table", "chair", "sofa", "lamp", "shelf", "desk", "couch", "stool", "drawer", "bench",
+    "house", "cabin", "castle", "hut", "palace", "mansion", "apartment", "cottage", "lodge", "tent",
+    "water", "ocean", "river", "stream", "pond", "lake", "sea", "bay", "wave", "tide",
+    "dog", "cat", "fish", "bird", "mouse", "horse", "cow", "sheep", "goat", "pig",
+    "car", "bus", "train", "truck", "bike", "van", "boat", "plane", "jeep", "ship",
+    "happy", "sad", "angry", "tired", "excited", "scared", "bored", "nervous", "shy", "proud",
+    "red", "blue", "green", "yellow", "purple", "orange", "pink", "black", "white", "gray",
+    "sun", "moon", "star", "cloud", "rain", "storm", "wind", "snow", "fog", "lightning",
+    "king", "queen", "prince", "princess", "knight", "dragon", "wizard", "witch", "elf", "giant",
+    "jump", "run", "walk", "climb", "swim", "crawl", "fly", "dive", "dance", "sing",
+    "pizza", "burger", "bread", "pasta", "cheese", "butter", "cereal", "cookie", "candy", "cake",
+    "book", "pen", "pencil", "paper", "ruler", "eraser", "notebook", "marker", "stapler", "scissors",
+    "shirt", "pants", "dress", "jacket", "coat", "shoes", "socks", "hat", "scarf", "gloves",
+    "summer", "winter", "spring", "autumn", "season", "snowflake", "sunshine", "raindrop", "breeze", "stormy",
+    "mother", "father", "sister", "brother", "grandma", "grandpa", "uncle", "aunt", "cousin", "family",
+    "city", "town", "village", "street", "road", "park", "bridge", "tower", "garden", "square",
+    "phone", "computer", "laptop", "tablet", "keyboard", "mouse", "screen", "camera", "speaker", "charger",
+    "gold", "silver", "bronze", "diamond", "ruby", "emerald", "pearl", "crystal", "stone", "jewel",
+    "earth", "mars", "venus", "jupiter", "saturn", "neptune", "mercury", "uranus", "pluto", "galaxy"
+] 
